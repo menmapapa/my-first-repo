@@ -1,2 +1,2 @@
 # my-first-repo
-test repository
+test repository for git
